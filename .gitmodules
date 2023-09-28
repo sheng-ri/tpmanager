@@ -1,0 +1,3 @@
+[submodule "minecraft_data_api"]
+	path = minecraft_data_api
+	url = https://github.com/MCDReforged/MinecraftDataAPI

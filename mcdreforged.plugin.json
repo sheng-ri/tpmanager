@@ -1,0 +1,17 @@
+{
+    "id": "tpmanager",
+    "version": "1.0.0-alpha",
+    "name": "TpManager",
+    "description":  {
+		"en_us": "Send teleport request",
+		"zh_cn": "发送传送请求"
+	},
+    "author": [
+        "sheng_ri",
+        "BirthCat"
+    ],
+    "dependencies": {
+        "minecraft_data_api": "*",
+        "mcdreforged": ">=2.8.3"
+    }
+}
